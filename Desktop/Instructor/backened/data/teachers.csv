@@ -1,0 +1,7 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+1,Alice Johnson,35,F,Data Science,10,4.8
+2,Bob Smith,42,M,Web Development,15,4.5
+3,Carol Lee,29,F,Machine Learning,5,3.2
+4,David Kim,38,M,Cloud Computing,12,3.6
+5,Eve Martinez,31,F,Python,7,4.4
+6,Ely Martiniz,34,M,Java,8,4.5
