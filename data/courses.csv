@@ -1,0 +1,6 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseRating
+101,Intro to Python,Programming,Beginner,4.5
+102,Advanced Data Science,Data Science,Advanced,3.7
+103,Web Development Bootcamp,Web Development,Intermediate,2.6
+104,Machine Learning Basics,Machine Learning,Beginner,4.3
+105,Cloud Architecture,Cloud Computing,Advanced,4.6
