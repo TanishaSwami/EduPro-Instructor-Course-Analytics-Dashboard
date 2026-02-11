@@ -4,4 +4,4 @@
 uvicorn app.main:app --host 0.0.0.0 --port 8000 &
 
 # Start Streamlit on Render PORT
-streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+streamlit run dashboard/app.py --server.port $PORT --server.address 0.0.0.0
